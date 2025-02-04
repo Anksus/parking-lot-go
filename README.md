@@ -8,3 +8,10 @@
 - The system should assign a parking spot to a vehicle upon entry and release it when the vehicle exits.
 - The system should track the availability of parking spots and provide real-time information to customers.
 - The system should handle multiple entry and exit points and support concurrent access.
+
+
+
+## TODO
+
+- Add tests
+- Write builder for Level and remove builder for ParkingLot
